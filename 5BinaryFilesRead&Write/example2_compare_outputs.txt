@@ -1,0 +1,32 @@
+0000000 656d 6572 0000 0000 0497 758d 7ffe 0000
+0000010 0496 758d 7ffe 0000 955d 1de0 |0000 40a0|
+0000020 6170 6e69 0065 0000 0497 758d 7ffe 0000
+0000030 0496 758d 7ffe 0000 955d 1de0 |0000 4040|
+0000040
+
+0000000 0000 40a0 656d 6572 0000 cdbb 7fff 0000
+0000010 ef16 cdbb 7fff 0000 056d 41d4 563f 0000
+0000020 0000 4040 6170 6e69 0065 cd00 7fff 0000
+0000030 ef16 cdbb 7fff 0000 056d 41d4 563f 0000
+0000040
+
+/*
+    Aplicația 5.1: Modificați exemplul anterior, astfel încât să se scrie la început de fișier numărul de produse din baza de date.
+
+
+    Valoriile marcate la final in float ale pretului au fost cerute de cerinta sa fie scrise la inceput de memorie si nu la final.
+    Am modificat direct pe exemplul.
+*/
+typedef struct
+{
+    char nume[28];
+    float pret;
+} Produs;
+
+Am modificat structura astfel ca sa se scrie mai intai valoarea pretului si apoi numele produsului.
+
+typedef struct
+{
+    float pret;
+    char nume[28];
+} Produs;
