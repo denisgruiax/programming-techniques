@@ -1,0 +1,4 @@
+milk 21.100000
+apple 3.100000
+strawberry 9.500000
+banana 12.300000

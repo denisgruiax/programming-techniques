@@ -1,0 +1,5 @@
+0 este par
+1 este impar
+2 este par
+3 este impar
+4 este par
