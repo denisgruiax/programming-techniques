@@ -4,7 +4,7 @@
 
 ## Credits. ⭐
 
-- 🧑‍💻 Professor Razvan Aciu - [http://staff.cs.upt.ro/~marius/curs/lsd/index.html](https://sites.google.com/site/razvanaciu/tehnici-de-programare)
+- 🧑‍💻 Professor Razvan Aciu - [https://sites.google.com/site/razvanaciu/tehnici-de-programare](https://sites.google.com/site/razvanaciu/tehnici-de-programare)
 
 ## About the project. 🪴
 ### Purpose. 🎯
